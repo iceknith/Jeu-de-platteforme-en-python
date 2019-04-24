@@ -1,10 +1,11 @@
 # Jeu-de-platteforme-en-python
 
-un simple jeu de platte-forme pas encore fini
+Un simple jeu de platte-forme utilisant Pygame pas encore fini
 
-## RESTANT À FAIRE
+## encore à faire
 * plein de choses
 
-## software nécessaire
+## programmes nécessaire
 * Python
 * Pygame
+## `il est également conseillé d'avoir un environnement de déveleoppement tel pycharm (par exemple)`
