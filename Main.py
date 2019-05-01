@@ -5,6 +5,7 @@ from Perso import *
 from Handler import *
 from Niveau import *
 
+#chargement de la fenètre et de l'arrière plan
 fenetre = pygame.display.set_mode((1500, 900))
 fond = pygame.image.load("image/fond-1.png").convert()
 choix = 'n1.txt'  # choix(a remplacer par la suite)
